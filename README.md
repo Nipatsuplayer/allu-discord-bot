@@ -8,9 +8,9 @@ Allu is a humble little Discord.py bot that does a bit of everything, though may
 
 ## Some cool features
 
-🔝 **Top.gg Vote Tracker:** Tracks votes from Top.gg, you can customize it to your needs.
-📷 **Reddit Meme Sender:** Fetches and sends the latest memes from Reddit.
-😂 **Dad Joke Sender:** Lightens the mood with hilarious dad jokes.
+🔝 **Top.gg Vote Tracker:** Tracks votes from Top.gg, you can customize it to your needs. <br>
+📷 **Reddit Meme Sender:** Fetches and sends the latest memes from Reddit.<br>
+😂 **Dad Joke Sender:** Lightens the mood with hilarious dad jokes.<br>
 
 ## Installation
 
