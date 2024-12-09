@@ -16,7 +16,7 @@ Allu is a humble little Discord.py bot that does a bit of everything, though may
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/allu-discord-bot.git
+   git clone https://github.com/Nipatsuplayer/allu-discord-bot.git
    ```
 2. Install the required packages:
    ```bash
