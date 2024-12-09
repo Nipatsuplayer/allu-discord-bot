@@ -1,4 +1,4 @@
-token=
-redditid=
-redditsecret=
-topgg_token=
+token=YOUR_BOT_TOKEN
+redditid=YOUR_REDDIT_ID
+redditsecret=YOUR_REDDIT_SECRET
+topgg_token=TOPGGTOKEN
